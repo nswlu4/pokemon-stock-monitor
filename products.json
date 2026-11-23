@@ -1,0 +1,16 @@
+
+{
+  "products": [
+    {
+      "name": "Holiday Helpers 皮卡丘＆土王",
+      "url": "https://24h.pchome.com.tw/prod/DGCQ39-A900KM2WD",
+      "enabled": true,
+      "priority": 1
+    }
+  ],
+  "settings": {
+    "timezone": "Asia/Taipei",
+    "sale_day": "Friday",
+    "sale_time": "16:00"
+  }
+}
